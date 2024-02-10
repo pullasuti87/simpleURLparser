@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "ts-node": "^10.9.2"
+  }
+}
